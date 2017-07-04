@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-// Mohamed Najib Adan
+
 int main()
 {
     int num1=220,num2=284,counter=210,sum2;
